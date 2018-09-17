@@ -7,6 +7,8 @@ background-color: black;
 
 p
 {
+  color: red;
+  font-weight: bold;
   width:10000px;
 }
 h1
