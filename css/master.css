@@ -1,0 +1,26 @@
+
+h6
+{
+float: right;
+background-color: black;
+}
+
+p
+{
+  width:10000px;
+}
+h1
+{
+    width:10000px;
+}
+h2
+{
+    max-width:10000px;
+}
+h3
+{
+    max-width:10000px;
+}
+h4
+{  max-width:10000px;
+}
